@@ -1,0 +1,30 @@
+História do Debian
+Início e Fundação (1993): Debian foi criado por Ian Murdock em agosto de 1993. Murdock queria desenvolver uma distribuição de Linux que fosse totalmente aberta e colaborativa. O nome "Debian" vem da combinação do seu nome e o da sua então namorada, Debra.
+
+Primeiras Versões (1996-1998): A primeira versão estável, Debian 1.1, foi lançada em 1996. A distribuição ganhou popularidade rapidamente devido à sua estabilidade e ao sistema de gerenciamento de pacotes dpkg. No final dos anos 90, Debian já era uma distribuição respeitada.
+
+Desenvolvimento e Crescimento (2000-2005): Debian consolidou-se como uma das principais distribuições de Linux. Em 2003, o projeto adotou um modelo de versões "stable" (estável), "testing" (teste) e "unstable" (instável), permitindo aos usuários escolher entre diferentes níveis de estabilidade e inovação.
+
+Diversificação e Novas Iniciativas (2005-2010): Durante este período, Debian lançou versões importantes, como Debian 5.0 "Lenny" em 2009. A distribuição tornou-se a base para outras distros notáveis, como o Ubuntu.
+
+Modernização e Atualizações (2010-2015): A distribuição continuou a evoluir com lançamentos como Debian 6.0 "Squeeze" e Debian 7.0 "Wheezy". A comunidade trabalhou para melhorar a acessibilidade, a segurança e o suporte para hardware moderno.
+
+Debian Atual (2015-presente): Recentemente, Debian lançou versões como Debian 8.0 "Jessie", Debian 9.0 "Stretch" e Debian 10.0 "Buster". A versão Debian 11 "Bullseye" foi lançada em 2021, e Debian 12 "Bookworm" está em desenvolvimento. Debian continua a ser uma das distribuições mais respeitadas no mundo do software livre.
+
+Mascote
+O Debian possui um mascote chamado "Damon". Damon é um diabo amigável, com um visual simpático e não ameaçador. O design do mascote representa o espírito de comunidade e o caráter acessível do projeto Debian.
+
+Versões
+Debian 1.1 (1996)
+Debian 2.0 "Hamm" (1998)
+Debian 3.0 "Woody" (2002)
+Debian 4.0 "Etch" (2007)
+Debian 5.0 "Lenny" (2009)
+Debian 6.0 "Squeeze" (2011)
+Debian 7.0 "Wheezy" (2013)
+Debian 8.0 "Jessie" (2015)
+Debian 9.0 "Stretch" (2017)
+Debian 10.0 "Buster" (2019)
+Debian 11 "Bullseye" (2021)
+Debian 12 "Bookworm" (em desenvolvimento)
+Debian continua a ser um pilar no mundo das distribuições Linux e no software livre, conhecido por sua estabilidade e flexibilidade.
